@@ -46,7 +46,15 @@ Acknowledge contributors and give credit to any libraries, frameworks, or tools 
 9. Contact Information
 Provide a way for users and contributors to get in touch with you or your team. This can be an email address, a link to your GitHub profile, or a dedicated communication channel.
 
-## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
+## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?Public repositories are a great choice for getting started! They're visible to any user on your GitHub Enterprise instance, so you can benefit from a collaborative community.
+
+Private repositories require a little more setup. They're only available to you, the repository owner, as well as any collaborators you choose to share with.    
+
+Some of the benefits of using a public/remote repository like GitHub are:
+
+It’s a lot easier when you want to work with other developers, everyone can easily pull and push changes from the remote repository instead of having to share files all the time
+When using a local repository there’s risk of losing files. Imagine something happens to your hard disk, all your code is gone. You’ll have to start building your project afresh - not a very good experience tho
+Public repositories promote open-source development. You can collaborate with the public to build tools or whatever it is you want to build.
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
