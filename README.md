@@ -56,7 +56,13 @@ It’s a lot easier when you want to work with other developers, everyone can ea
 When using a local repository there’s risk of losing files. Imagine something happens to your hard disk, all your code is gone. You’ll have to start building your project afresh - not a very good experience tho
 Public repositories promote open-source development. You can collaborate with the public to build tools or whatever it is you want to build.
 
-## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
+## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?in your repository's list of files, select README.md.
+In the upper right corner of the file view, click to open the file editor.
+In the text box, type some information about yourself.
+Above the new content, click Preview.
+Review the changes you made to the file. ...
+Click Commit changes...
+
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
