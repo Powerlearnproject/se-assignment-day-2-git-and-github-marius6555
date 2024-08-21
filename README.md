@@ -1,4 +1,4 @@
-hi# se-day-2-git-and-github
+guyhi# se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?foundational tool in the modern developer's toolkit, version control tools keep a historical record of software changes in a specialized database, logging edits made by individual developers. When conflicts emerge, developers can look back and resolve code conflicts, minimizing disruption to the codebase.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
@@ -112,7 +112,10 @@ Click Commit changes...
 
 
 
-## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
+## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?Pull requests on GitHub streamline the process of integrating code changes by facilitating code review, discussion, and quality assurance. They enable a structured workflow where changes are proposed, reviewed, and merged in a collaborative environment. This helps maintain code quality, ensures that multiple perspectives are considered, and keeps the project well-documented and organized.
+
+
+Role of Pull RequestsCode Review: Pull requests provide a formal way to review code changes. Developers submit their code as a pull request, which others can then review, comment on, and suggest improvements.Discussion: PRs serve as a discussion forum where team members can discuss changes, propose modifications, and resolve issues before merging. This fosters collaboration and ensures that all perspectives are considered.Quality Assurance: By reviewing code in pull requests, teams can enforce coding standards, catch bugs, and ensure that new code integrates well with the existing codebase.Documentation: Pull requests provide a record of changes and the rationale behind them. This historical context helps in understanding why certain changes were made and how they were discussed and reviewed.
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
